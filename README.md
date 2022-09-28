@@ -22,4 +22,10 @@
 
 
 3. click on post option.
+
 ![](images/click.gif)
+
+4. Create new post by clicking on new post button.
+![](images/newpost.gif)
+   1. Add **Title** , **author** ,**body** and **status** of the blog post.
+   ![](images/addpost.gif)
