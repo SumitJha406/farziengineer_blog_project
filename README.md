@@ -10,5 +10,10 @@
 
 1. Create **superuser** using command : `python manage.py createsuperuser` on terminal.
     1. Then, Create User by entering ***Username***, ***Email-id*** and ***Password***.
-![](images/superuser.gif)
+![](images/superuser.gif) 
+
+
+2. Now ***Login*** to ***admin site*** of django.
+   1. Run django server using command `python manage.py runserver` on terminal.
+![](images/runserver.gif)
 
