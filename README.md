@@ -42,6 +42,19 @@
  ## Website
  
  ### This is how site will look like.
- ![](images/djangohome)
+ ![](images/djangohome.PNG)
  
+ 1. You can add new blog by clicking on `New BlogPost`.
+
+![](images/newblog.PNG)
+ 
+ 2.Add info. about the post.
+ 
+ ![](images/newpost2.PNG)
+ 
+ 3. Delete and Edit the post.
+ 
+ ![](images/edit-and-delete-post.PNG)
+ 
+ > ***Note*** - To see the post in home page, change the **status** option from **draft** to **publish**
  
