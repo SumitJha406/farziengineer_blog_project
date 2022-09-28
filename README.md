@@ -16,4 +16,6 @@
 2. Now ***Login*** to ***admin site*** of django.
    1. Run django server using command `python manage.py runserver` on terminal.
 ![](images/runserver.gif)
-
+   
+   2. Click on Development server at `http://127.0.0.1:8000/` and go to `http://127.0.0.1:8000/admin`
+   
