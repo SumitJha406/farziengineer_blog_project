@@ -19,3 +19,7 @@
    
    2. Click on Development server at `http://127.0.0.1:8000/` and go to `http://127.0.0.1:8000/admin` and login to admin site.
 <img src = "images/login page.gif"> 
+
+
+3. click on post option.
+![](images/click.gif)
