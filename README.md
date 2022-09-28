@@ -34,3 +34,14 @@
  
  5. This is how , it will look after adding a post.
     ![](images/admin.PNG)
+ 
+ 6. You can **delete** a post after clicking on that post and clicking on **delete button**.
+    ![](images/deletebutton.PNG)
+ 
+ 
+ ## Website
+ 
+ ### This is how site will look like.
+ ![](images/djangohome)
+ 
+ 
