@@ -29,3 +29,8 @@
 ![](images/newpost.gif)
    1. Add **Title** , **author** ,**body** and **status** of the blog post.
    ![](images/addpost.gif)
+   
+   2. Click on **Save** button to save the post.
+ 
+ 5. This is how , it will look after adding a post.
+    ![](images/admin.png)
