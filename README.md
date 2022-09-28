@@ -10,5 +10,5 @@
 
 1. Create **superuser** using command : `python manage.py createsuperuser` on terminal.
     1. Then, Create User by entering ***Username***, ***Email-id*** and ***Password***.
-
+![](images/superuser.gif)
 
