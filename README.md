@@ -33,4 +33,4 @@
    2. Click on **Save** button to save the post.
  
  5. This is how , it will look after adding a post.
-    ![](images/admin.png)
+    ![](images/admin.PNG)
